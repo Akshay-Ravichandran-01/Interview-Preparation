@@ -1,4 +1,4 @@
-# Day 1 - Problems Solved
+# Day 2 - Problems Solved
 
 ### AlgoExpert Problems
 
