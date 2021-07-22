@@ -2,22 +2,22 @@
 
 ### AlgoExpert Problems
 
-* Two Number Sum [Easy] (https://www.algoexpert.io/questions/Two%20Number%20Sum)
-* Validate Subsequence [Easy] (https://www.algoexpert.io/questions/Validate%20Subsequence)
-* Sorted Squared Array [Easy] (https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
+* Non-Constructible Change [Easy] (https://www.algoexpert.io/questions/Non-Constructible%20Change)
+* Tournament Winner [Easy] (https://www.algoexpert.io/questions/Tournament%20Winner)
+* Smallest Difference [Medium] (https://www.algoexpert.io/questions/Smallest%20Difference)
 
 ### GeeksForGeeks Problems
 
-* Reverse the Array [Easy] (https://practice.geeksforgeeks.org/problems/reverse-the-array/0#)
-* Reverse the Array in Groups [Easy] (https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
-* Strongest Neighbour [Easy] (https://practice.geeksforgeeks.org/problems/strongest-neighbour/1)
-* Maximum & Second Maximum [Easy] (https://practice.geeksforgeeks.org/problems/max-and-second-max/1#)
-* Move 0s to End [Easy] (https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+* Frequency of Limited Range Elements [Easy] (https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1#)
+* Leaders in Array [Easy] (https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+* Longest Consecutive 1s [Easy] (https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)
+* Majority Element [Easy] (https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)
+* Wave Array [Easy] (https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1#)
 
 ## LeetCode Problems
 
-* Contains Duplicate [Easy] (https://leetcode.com/problems/contains-duplicate/)
-* Find All Numbers Disappeared in Array [Easy] (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+* Missing Number [Easy] (https://leetcode.com/problems/missing-number/)
+* Single Number [Easy] (https://leetcode.com/problems/single-number/)
  
 
 
