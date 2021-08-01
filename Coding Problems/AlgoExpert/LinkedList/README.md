@@ -6,5 +6,5 @@
 
 * Remove Kth Element From End **[Medium]** (https://www.algoexpert.io/questions/Remove%20Kth%20Node%20From%20End)
 
-* Reverse Linked List **[Medium]** (https://www.algoexpert.io/questions/Reverse%20Linked%20List)
+* Reverse Linked List **[Hard]** (https://www.algoexpert.io/questions/Reverse%20Linked%20List)
 
